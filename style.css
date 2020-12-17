@@ -1,6 +1,8 @@
+body {
+  background-color: powderblue;
+}
 h3 {
-  color: white;
-  background-color: #349dee;
+  color: black;
 }
 .svg-inline--fa.fa-fw {
   width: 1.25em;
